@@ -1,2 +1,2 @@
 # systus
-Bash tool for checking system resource (i.e. CPU, Memory, Disk, Network)  usage and uptime
+Bash tool for checking system resource (i.e. CPU, Memory, Disk, Network) usage and uptime
